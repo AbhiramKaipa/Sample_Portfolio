@@ -1,1 +1,1 @@
-# A Simple Static POrtfolio Page
+# A Simple Static Portfolio Page
